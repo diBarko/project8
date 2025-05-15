@@ -1,0 +1,9 @@
+out/
+.idea/
+MyProject8.iml
+### All text files in current folder
+*.txt
+### All text files project-wide
+**/*.txt
+!**/src/main/**/out/
+!**/src/test/**/out/
